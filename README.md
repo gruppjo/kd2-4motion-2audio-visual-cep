@@ -1,6 +1,11 @@
 # Audio Visual CEP
 Audio Visual CEP Extension that runs in after effects v.17.
 
+## Versions
+- v0.1.0
+	- successful boilerplate
+	- loads an image from `~/Downloads/myFile.jpg`
+
 ## Development Journey
 - Resources
 	- Getting Started Guide [GitHub Adobe-CEP](https://github.com/Adobe-CEP/Getting-Started-guides)
