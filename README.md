@@ -2,6 +2,8 @@
 Audio Visual CEP Extension that runs in after effects v.17.
 
 ## Versions
+- v0.1.2
+  - fix typo in file path
 - v0.1.1
   - add a white background
 - v0.1.0
