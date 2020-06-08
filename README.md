@@ -1,5 +1,5 @@
 # Audio Visual CEP
-Audio Visual Plugin that runs in after effects.
+Audio Visual CEP Extension that runs in after effects v.17.
 
 ## Development Journey
 - Resources
