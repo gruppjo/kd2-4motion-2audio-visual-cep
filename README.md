@@ -2,6 +2,8 @@
 Audio Visual CEP Extension that runs in after effects v.17.
 
 ## Versions
+- v0.1.1
+  - add a white background
 - v0.1.0
   - successful boilerplate
   - loads an image from `~/Downloads/myFile.jpg`
